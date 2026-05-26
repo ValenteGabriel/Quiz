@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Qual linguagem estamos usando neste projeto?",
+    "options": ["JavaScript", "Python", "Java", "C#"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Qual arquivo usamos para guardar as perguntas?",
+    "options": ["main.py", "README.md", "questions.json", "pyproject.toml"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Qual ferramenta estamos usando para gerenciar o projeto?",
+    "options": ["Poetry", "Django", "Flask", "PostgreSQL"],
+    "correct_answer": 1
+  }
+]

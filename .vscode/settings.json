@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "terminal.integrated.enablePersistentSessions": false,
+  "terminal.integrated.splitCwd": "workspaceRoot",
+  "python.defaultInterpreterPath": "/home/valentegabriel/.cache/pypoetry/virtualenvs/quiz-cli-xxxxx-py3.13/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python-envs.defaultEnvManager": "ms-python.python:poetry",
+  "python-envs.defaultPackageManager": "ms-python.python:poetry"
+}
