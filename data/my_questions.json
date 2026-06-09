@@ -1,0 +1,8 @@
+[
+  {
+    "question": "Qual linguagem estamos usando neste projeto?",
+    "options": ["JavaScript", "Python", "Java", "C#"],
+    "correct_answer": 2
+  }
+
+]
